@@ -9,7 +9,9 @@ Setup snowflake.
 Navigera i snowflake.
 Använda snowflake i vsc och köra sql kod.
 
-cd, ls, pwd, mkdir, rmdir, cd.., ls -a, cat "filnman", 
+cd, ls, pwd, mkdir, rmdir, cd.., ls -a, cat "filnman",
+touch - skapar fil exempel touch "mappnamn"/"filnamn.filtyp (touch 00_code_alongs/04_crunchbase.sql)
+
 git init - Skapar ett nytt Git-repository i den aktuella mappen.
 git clone <repo-url> - Klonar ett existerande repository från en URL till din lokala dator.
 git status - Visar status får Ãndringar i ditt repository.
